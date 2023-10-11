@@ -37,11 +37,15 @@ The case study revolves around Cyclistic, a bike-sharing service in Chicago. The
 
 Key components of the case study include:
 
-*Data Collection*: Gathering data from public sources, especially the City of Chicago's Divvy Bikes dataset.
-*Data Cleaning*: Preprocessing the data to handle missing values, outliers, and inconsistencies.
-*Exploratory Data Analysis (EDA)*: Understanding patterns, trends, and relationships in the data.
-*Data Visualization*: Creating visual representations to communicate findings effectively.
-*Recommendation*s: Based on the analysis, suggesting strategies for Cyclistic's marketing team to target casual riders.
+- *Data Collection*: Gathering data from public sources, especially the City of Chicago's Divvy Bikes dataset.
+
+- *Data Cleaning*: Preprocessing the data to handle missing values, outliers, and inconsistencies.
+
+- *Exploratory Data Analysis (EDA)*: Understanding patterns, trends, and relationships in the data.
+
+- *Data Visualization*: Creating visual representations to communicate findings effectively.
+
+- *Recommendation*s: Based on the analysis, suggesting strategies for Cyclistic's marketing team to target casual riders.
 
 
 ### **Tobacco Sales Analysis (6-Month Period)**
