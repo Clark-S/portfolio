@@ -1,6 +1,8 @@
 title: Scott Clark
 logo: ![Me](https://github.com/Clark-S/EmployeeAnalysis/assets/146842625/cca70bb7-1e36-415a-9403-7f7d55a65be1)
 description: Owner/Operator of Leonardos Convenience Store
-theme: jeckyll-theme-minima
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
 
 
