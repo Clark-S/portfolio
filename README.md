@@ -41,6 +41,8 @@ Key components of the case study include:
 - Tobacco Sales Analysis (6-Month Period)
 Constructed a detailed sales report focusing on tobacco sales, segmented by brand and volume. Analyzed overall and average sales, identified key trends in brand performance, and leveraged insights to enhance negotiation strategies for annual contract plans.
 
+![](docs/assets/tobacco_sales_report_vis.png)
+
 - Adidas Sales Interactive Dashboard
 
 
