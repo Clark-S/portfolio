@@ -1,6 +1,6 @@
-#Small Business Owner/Operator
+# Small Business Owner/Operator
 
-#Entrepreneur
+# Entrepreneur
 
 ### Education
 
