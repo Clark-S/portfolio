@@ -2,8 +2,8 @@
 #Entrepreneur
 
 ### Education
-NSCC, Investment Management
-Google Data Analyst Certification
+-NSCC, Investment Management
+-Google Data Analyst Certification
 
 ### Work Experience
 Freedom 55 Financial - Personal Financial Advisor, Corporate Group Benefit Sales
