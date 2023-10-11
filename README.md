@@ -31,7 +31,7 @@
 
 **Cyclistic Bike Share Case Study (Google Data Analytics Course, Coursera)**
 
-Link to Kaggle Project -https://www.kaggle.com/code/scotclark/cyclistic-case-study/report
+Link to Kaggle Project - [link](https://www.kaggle.com/code/scotclark/cyclistic-case-study/report)
 
 The case study revolves around Cyclistic, a bike-sharing service in Chicago. The primary objective is to understand how casual riders and annual members use Cyclistic bikes differently. By analyzing and interpreting data from multiple sources, analysts are tasked with providing actionable insights that can help Cyclistic convert casual riders into annual members.
 
