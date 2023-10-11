@@ -2,6 +2,7 @@
 #Entrepreneur
 
 ### Education
+
 NSCC, Investment Management
 
 Google Data Analyst Certification
