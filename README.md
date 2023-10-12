@@ -31,11 +31,11 @@
 
 ### **Cyclistic Bike Share Case Study (Google Data Analytics Course, Coursera)**
 
-Link to Kaggle Project - [here](https://www.kaggle.com/code/scotclark/cyclistic-case-study/report)
+**Link to Kaggle Project - [here](https://www.kaggle.com/code/scotclark/cyclistic-case-study/report)**
 
 The case study revolves around Cyclistic, a bike-sharing service in Chicago. The primary objective is to understand how casual riders and annual members use Cyclistic bikes differently. By analyzing and interpreting data from multiple sources, analysts are tasked with providing actionable insights that can help Cyclistic convert casual riders into annual members.
 
-Key components of the case study include:
+**Key components of the case study include:**
 
 -*Data Collection*: Gathering data from public sources, especially the City of Chicago's Divvy Bikes dataset.
 
@@ -52,9 +52,9 @@ Key components of the case study include:
 
 Constructed a detailed sales report focusing on tobacco sales, segmented by brand and volume. Analyzed overall and average sales, identified key trends in brand performance, and leveraged insights to enhance negotiation strategies for annual contract plans, as well as potential marketing strategies moving forward.
 
-<img src="docs/assets/NewTobaccoSalesReport.png" width="225">  <img src="docs/assets/1697113419593-c6f7ea05-f62f-4bdd-825f-074ff2bc7f58_1.png" width = "275"> 
+<img src="docs/assets/NewTobaccoSalesReport.png" width="200">  <img src="docs/assets/1697113419593-c6f7ea05-f62f-4bdd-825f-074ff2bc7f58_1.png" width = "250"> 
 
-Skills in Analyzing & Reporting from Excel Data:
+**Skills in Analyzing & Reporting from Excel Data:**
 
 -*Excel Mastery*: Proficient in formulas, pivot tables, data management, and visualization.
 
@@ -66,7 +66,7 @@ Skills in Analyzing & Reporting from Excel Data:
 
 ### **Interactive Sales Dashboard: Excel-Based Data Analysis & Visualization**
 
-####Project Overview:
+#### **Project Overview:**
 Constructed an advanced, interactive sales dashboard using Excel, underlining competencies in data organization, visualization, communication, and end-to-end project execution.
 
 *Process & Execution:*
