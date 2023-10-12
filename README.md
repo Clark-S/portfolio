@@ -64,8 +64,9 @@ Skills in Analyzing & Reporting from Excel Data:
 
 -*Detail-Oriented*: Ensures accuracy and thoroughness in data interpretation.
 
+### **Adidas Sales Interactive Dashboard** 
 
-- Adidas Sales Interactive Dashboard
+
 
 
 
