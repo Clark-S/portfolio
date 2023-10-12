@@ -64,11 +64,25 @@ Skills in Analyzing & Reporting from Excel Data:
 
 -*Detail-Oriented*: Ensures accuracy and thoroughness in data interpretation.
 
-### **Adidas Sales Interactive Dashboard** 
+### **Interactive Sales Dashboard: Excel-Based Data Analysis & Visualization**
+
+####Project Overview:
+Constructed an advanced, interactive sales dashboard using Excel, underlining competencies in data organization, visualization, communication, and end-to-end project execution.
+
+*Process & Execution:*
+
+*Data Cleaning & Preparation*: Conducted meticulous data preprocessing, which included reformatting inconsistencies, eliminating incomplete data entries, and segregating columns to streamline subsequent analyses.
+
+*Analytical Techniques* :Leveraged pivot tables to create specific datasets, facilitating the creation of comparative visualizations that inform the dashboard's core.
+
+*Dashboard Development*: Designed a user-centric dashboard interface that intuitively communicates sales metrics across diverse subcategories. This dynamic platform caters to varied user requirements, transcending the limitations of traditional static reports.
 
 [Download here](docs/assets/AdidasInteractiveDashboard1.xlsx) 
 
 <img src="docs/assets/SalesDashboard.png" width="750">
+
+
+
 
 
 
