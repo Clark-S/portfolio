@@ -8,7 +8,7 @@
 
 ## Education
 
-- *NSCC, Investment Management* - Comprehensive study of investment principles and practices, covering asset allocation, portfolio construction, and risk management. Explores various investment vehicles, including stocks, bonds, and mutual funds, as well as insurance, and group benefit plan. Emphasizes analytical techniques and real-world applications to optimize investment returns and achieve financial objectives.
+- *NSCC, Investment Management* - Comprehensive study of investment principles and practices, covering asset allocation, portfolio construction, and risk management. Explores various investment vehicles, including stocks, bonds, and mutual funds, as well as insurance, and group benefit plans. Emphasizes analytical techniques and real-world applications to optimize investment returns and achieve financial objectives.
 
 - *Google Data Analyst Certification* - A foundational course comprised of eight inner courses developed by Google, covering the complete data analysis process using tools like Excel, SQL, R, and Tableau. Includes hands-on projects and real-world case studies, culminating in a professional certificate.
 
@@ -21,7 +21,7 @@
 **Store Manager - Leonardos Convenience 2013-2018**
 
 - Managed daily operations, inventory, and a team of staff, ensuring customer satisfaction.
-- Collaborated on promotions, increasing foot traffic, and assisted in financial tasks, including product ordering, data input, payroll management.
+- Collaborated on promotions, increasing foot traffic, and assisted in financial tasks, including product ordering, data input, and payroll management.
 
 **Owner//Operator - Leonardos Convenience 2018-Present** 
 
@@ -31,7 +31,7 @@
 
 ### **Cyclistic Bike Share Case Study (Google Data Analytics Course, Coursera)**
 
-Link to Kaggle Project - [link](https://www.kaggle.com/code/scotclark/cyclistic-case-study/report)
+Link to Kaggle Project - [here](https://www.kaggle.com/code/scotclark/cyclistic-case-study/report)
 
 The case study revolves around Cyclistic, a bike-sharing service in Chicago. The primary objective is to understand how casual riders and annual members use Cyclistic bikes differently. By analyzing and interpreting data from multiple sources, analysts are tasked with providing actionable insights that can help Cyclistic convert casual riders into annual members.
 
@@ -52,8 +52,8 @@ Key components of the case study include:
 
 Constructed a detailed sales report focusing on tobacco sales, segmented by brand and volume. Analyzed overall and average sales, identified key trends in brand performance, and leveraged insights to enhance negotiation strategies for annual contract plans, as well as potential marketing strategies moving forward.
 
-<img src="docs/assets/tobacco_sales_report_vis.png" width="300">
-
+<img src="docs/assets/tobacco_sales_report_vis.png" width="200">
+<img src="docs/assets/Tobacco_Report1.pdf" width="200">
 - Adidas Sales Interactive Dashboard
 
 
