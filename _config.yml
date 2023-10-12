@@ -1,6 +1,6 @@
 title: Scott Clark
 logo: docs/assets/Me.jpg
-description: Owner/Operator of Leonardos Convenience Store
+description: Owner/Operator of Leonardos Convenience
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
