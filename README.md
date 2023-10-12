@@ -50,7 +50,7 @@ The case study revolves around Cyclistic, a bike-sharing service in Chicago. The
 
 ### **Tobacco Sales Analysis (6-Month Period)**
 
-Constructed a detailed sales report focusing on tobacco sales, segmented by brand and volume. Analyzed overall and average sales, identified key trends in brand performance, and leveraged insights to enhance negotiation strategies for annual contract plans, as well as potential marketing strategies moving forward.
+Firstly, I refined the dataset by removing unnecessary columns, standardizing cell formats, and excluding rows with missing information. Following this cleanup, I utilized pivot tables to craft visualizations that effectively illustrated the narrative of the report. Subsequently, I constructed a high-level summary focusing on tobacco sales, segmented by brand and volume. I analyzed overall and average sales, identified key trends in brand performance, and leveraged insights to bolster negotiation strategies for annual contract renewal plans, as well as to inform of potential marketing strategies moving forward.
 
 <table>
   <tr>
@@ -76,6 +76,7 @@ Constructed a detailed sales report focusing on tobacco sales, segmented by bran
 ### **Interactive Sales Dashboard: Excel-Based Data Analysis & Visualization**
 
 #### **Project Overview:**
+
 Constructed an advanced, interactive sales dashboard using Excel, underlining competencies in data organization, visualization, communication, and end-to-end project execution.
 
 **Process & Execution:**
