@@ -52,7 +52,7 @@ The case study revolves around Cyclistic, a bike-sharing service in Chicago. The
 
 Constructed a detailed sales report focusing on tobacco sales, segmented by brand and volume. Analyzed overall and average sales, identified key trends in brand performance, and leveraged insights to enhance negotiation strategies for annual contract plans, as well as potential marketing strategies moving forward.
 
-<img src="docs/assets/NewTobaccoSalesReport.png" width="200">  <img src="docs/assets/1697113419593-c6f7ea05-f62f-4bdd-825f-074ff2bc7f58_1.png" width = "250"> 
+<img src="docs/assets/NewTobaccoSalesReport.png" width="250">  <img src="docs/assets/1697113419593-c6f7ea05-f62f-4bdd-825f-074ff2bc7f58_1.png" width = "250"> 
 
 **Skills in Analyzing & Reporting from Excel Data:**
 
