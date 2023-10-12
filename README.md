@@ -3,7 +3,7 @@
 
 # Entrepreneur
 
-#### Technical Skills: Excel, SQL, Python, Tableau
+#### Technical Skills: Excel, SQL, R, Tableau
 
 
 ## Education
