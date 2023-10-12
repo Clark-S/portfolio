@@ -77,9 +77,11 @@ Constructed an advanced, interactive sales dashboard using Excel, underlining co
 
 *Dashboard Development*: Designed a user-centric dashboard interface that intuitively communicates sales metrics across diverse subcategories. This dynamic platform caters to varied user requirements, transcending the limitations of traditional static reports.
 
+<img src="docs/assets/SalesDashboard.png" width="750">
+
 [Download here](docs/assets/AdidasInteractiveDashboard1.xlsx) 
 
-<img src="docs/assets/SalesDashboard.png" width="750">
+
 
 
 
