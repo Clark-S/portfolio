@@ -52,7 +52,10 @@ Key components of the case study include:
 
 Constructed a detailed sales report focusing on tobacco sales, segmented by brand and volume. Analyzed overall and average sales, identified key trends in brand performance, and leveraged insights to enhance negotiation strategies for annual contract plans, as well as potential marketing strategies moving forward.
 
-<img src="docs/assets/NewTobaccoSalesReport.png" width="200"> ![](docs/assets/1697111960998-d3da0cb5-4e7e-41f4-ab6c-47a630f6179c_1.png)
+<img src="docs/assets/1697111960998-d3da0cb5-4e7e-41f4-ab6c-47a630f6179c_1.png" width = "400">
+<img src="docs/assets/NewTobaccoSalesReport.png" width="200">
+
+
 - Adidas Sales Interactive Dashboard
 
 
