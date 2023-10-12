@@ -56,7 +56,7 @@ Firstly, I refined the dataset by removing unnecessary columns, standardizing ce
 
 <table>
   <tr>
-    <td>Sales Report Visualization - [link](docs/assets/tobacco_sales_report_vis.png)</td>
+    <td>Sales Report Visualization</td>
      <td>Written Report</td>
   </tr>
   <tr>
@@ -64,6 +64,9 @@ Firstly, I refined the dataset by removing unnecessary columns, standardizing ce
     <td><img src="docs/assets/1697113419593-c6f7ea05-f62f-4bdd-825f-074ff2bc7f58_1.png" width=300 height=375></td>
   </tr>
  </table>
+
+[Sales Report Download Link](docs/assets/tobacco_sales_report_vis.png) 
+
 
 **Skills in Analyzing & Reporting from Excel Data:**
 
