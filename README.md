@@ -54,6 +54,16 @@ Constructed a detailed sales report focusing on tobacco sales, segmented by bran
 
 <img src="docs/assets/NewTobaccoSalesReport.png" width="275"> <img src="docs/assets/1697113419593-c6f7ea05-f62f-4bdd-825f-074ff2bc7f58_1.png" width = "300"> 
 
+Skills in Analyzing & Reporting from Excel Data:
+
+-*Excel Mastery*: Proficient in formulas, pivot tables, data management, and visualization.
+
+-*Data Analysis*: Adept at discerning trends, patterns, and anomalies.
+
+-*Clear Communication*: Skilled in crafting concise reports with actionable insights.
+
+-*Detail-Oriented*: Ensures accuracy and thoroughness in data interpretation.
+
 
 - Adidas Sales Interactive Dashboard
 
