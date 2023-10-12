@@ -52,7 +52,7 @@ The case study revolves around Cyclistic, a bike-sharing service in Chicago. The
 
 Conducted a 6-month analysis of tobacco sales, delving into brand performance, volume segmentation, and market trends. 
 
-Firstly, I refined the dataset by removing unnecessary columns, standardizing cell formats, and excluded rows containing no information. Following this cleanup, I utilized pivot tables to craft visualizations that effectively illustrated the narrative of the report. Subsequently, I constructed a high-level summary focusing on tobacco sales, segmented by brand and volume. I analyzed overall and average sales, identified key trends in brand performance, and leveraged insights to bolster negotiation strategies for annual contract renewal plans, as well as to inform of potential marketing strategies moving forward.
+Firstly, I refined the dataset by removing unnecessary columns, standardizing cell formats, and excluded rows containing no information. Following this cleanup, I utilized pivot tables to craft visualizations that effectively illustrated the narrative of the report. I then constructed a high-level summary focusing on tobacco sales, segmented by brand and volume. I analyzed overall and average sales, identified key trends in brand performance, and leveraged insights to bolster negotiation strategies for annual contract renewal plans, as well as to inform of potential marketing strategies moving forward.
 
 <table>
   <tr>
