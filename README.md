@@ -69,7 +69,7 @@ Constructed a detailed sales report focusing on tobacco sales, segmented by bran
 #### **Project Overview:**
 Constructed an advanced, interactive sales dashboard using Excel, underlining competencies in data organization, visualization, communication, and end-to-end project execution.
 
-*Process & Execution:*
+**Process & Execution:**
 
 *Data Cleaning & Preparation*: Conducted meticulous data preprocessing, which included reformatting inconsistencies, eliminating incomplete data entries, and segregating columns to streamline subsequent analyses.
 
