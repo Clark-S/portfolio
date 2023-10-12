@@ -91,7 +91,7 @@ Constructed an advanced, interactive sales dashboard using Excel, underlining co
 
 <img src="docs/assets/SalesDashboard.png" width="750">
 
-[Download here](docs/assets/AdidasInteractiveDashboard1.xlsx) 
+[Download raw file here to interact](docs/assets/AdidasInteractiveDashboard1.xlsx) 
 
 
 
