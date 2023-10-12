@@ -1,5 +1,5 @@
 title: Scott Clark
-logo: <img src=" docs/assets/Me.jpg" width="300">
+logo: docs/assets/Me.jpg
 description: Owner/Operator of Leonardos Convenience
 show_downloads : false 
 remote_theme: pages-themes/minimal@v0.2.0
