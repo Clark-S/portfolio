@@ -65,7 +65,7 @@ Firstly, I refined the dataset by removing unnecessary columns, standardizing ce
   </tr>
  </table>
 
-[Sales Report Download Link](docs/assets/tobacco_sales_report_vis.png) 
+[Sales Report Visualization Download Link](docs/assets/NewTobaccoSalesReport.png) 
 
 
 **Skills in Analyzing & Reporting from Excel Data:**
