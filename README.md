@@ -68,7 +68,7 @@ Skills in Analyzing & Reporting from Excel Data:
 
 [Download here](docs/assets/AdidasInteractiveDashboard1.xlsx) 
 
-<img src="docs/assets/SalesDashboard.png" width="500">
+<img src="docs/assets/SalesDashboard.png" width="750">
 
 
 
