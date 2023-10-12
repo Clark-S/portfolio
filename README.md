@@ -59,7 +59,7 @@ Constructed a detailed sales report focusing on tobacco sales, segmented by bran
   </tr>
   <tr>
     <td><img src="docs/assets/NewTobaccoSalesReport.png" width=225 height=300></td>
-    <td><img src="docs/assets/1697113419593-c6f7ea05-f62f-4bdd-825f-074ff2bc7f58_1.png" width=250 height=310></td>
+    <td><img src="docs/assets/1697113419593-c6f7ea05-f62f-4bdd-825f-074ff2bc7f58_1.png" width=250 height=350></td>
   </tr>
  </table>
 
