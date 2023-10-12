@@ -56,7 +56,7 @@ Firstly, I refined the dataset by removing unnecessary columns, standardizing ce
 
 <table>
   <tr>
-    <td>Sales Report Visualization</td>
+    <td>Sales Report Visualization - [link](docs/assets/tobacco_sales_report_vis.png)</td>
      <td>Written Report</td>
   </tr>
   <tr>
