@@ -85,7 +85,7 @@ Constructed an advanced, interactive sales dashboard using Excel, underlining co
 
 *Data Cleaning & Preparation*: Conducted meticulous data preprocessing, which included reformatting inconsistencies, eliminating incomplete data entries, and segregating columns to streamline subsequent analyses.
 
-*Analytical Techniques* :Leveraged pivot tables to create specific datasets, facilitating the creation of comparative visualizations that inform the dashboard's core.
+*Analytical Techniques*: Leveraged pivot tables to create specific datasets, facilitating the creation of comparative visualizations that inform the dashboard's core.
 
 *Dashboard Development*: Designed a user-centric dashboard interface that intuitively communicates sales metrics across diverse subcategories. This dynamic platform caters to varied user requirements, transcending the limitations of traditional static reports.
 
