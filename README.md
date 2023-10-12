@@ -23,7 +23,7 @@
 - Managed daily operations, inventory, and a team of staff, ensuring customer satisfaction.
 - Collaborated on promotions, increasing foot traffic, and assisted in financial tasks, including product ordering, data input, and payroll management.
 
-**Owner//Operator - Leonardos Convenience 2018-Present** 
+**Owner/Operator - Leonardos Convenience 2018-Present** 
 
 - Transitioned from manager to owner, driving consistent revenue growth and reducing operational costs. Expanded product range and fostered supplier relationships, while leading a dedicated team and emphasizing professional development.
 
@@ -52,7 +52,7 @@ Key components of the case study include:
 
 Constructed a detailed sales report focusing on tobacco sales, segmented by brand and volume. Analyzed overall and average sales, identified key trends in brand performance, and leveraged insights to enhance negotiation strategies for annual contract plans, as well as potential marketing strategies moving forward.
 
-<img src="docs/assets/NewTobaccoSalesReport.png" width="275"> <img src="docs/assets/1697113419593-c6f7ea05-f62f-4bdd-825f-074ff2bc7f58_1.png" width = "300"> 
+<img src="docs/assets/NewTobaccoSalesReport.png" width="225">  <img src="docs/assets/1697113419593-c6f7ea05-f62f-4bdd-825f-074ff2bc7f58_1.png" width = "250"> 
 
 Skills in Analyzing & Reporting from Excel Data:
 
