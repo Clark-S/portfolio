@@ -27,6 +27,12 @@
 
 - Transitioned from manager to owner, driving consistent revenue growth and reducing operational costs. Expanded product range and fostered supplier relationships, while leading a dedicated team and emphasizing professional development.
 
+**Data Analyst Consultant - Melita Consulting**
+
+- Specialized in data set organization and anonymization, ensuring data integrity.
+- Leveraged Excel and Tableau expertise to craft live dashboard visualizations and tables.
+- Delivered analytical insights, supporting client decision-making processes. 
+
 ## Projects
 
 ### **Cyclistic Bike Share Case Study (Google Data Analytics Course, Coursera)**
